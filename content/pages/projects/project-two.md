@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Valery_Mihalkov_162147226-51x51cm.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
