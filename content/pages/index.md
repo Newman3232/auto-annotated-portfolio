@@ -59,7 +59,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: PAINTINGS
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
